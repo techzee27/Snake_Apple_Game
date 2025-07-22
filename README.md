@@ -32,7 +32,7 @@ Prerequisites
 
 # **Installation
 Clone this repository:
- -->  git clone https://github.com/yourusername/snake-apple-game.git
+ -->  [git clone https://github.com/yourusername/snake-apple-game.git](https://github.com/techzee27/Snake_Apple_Game.git)
  -->  cd snake-apple-game
  
  **Run the game:**
