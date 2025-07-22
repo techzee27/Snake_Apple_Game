@@ -24,3 +24,41 @@ A classic Snake game built using Pygame, enhanced with power-ups and obstacles f
 <img width="799" height="628" alt="Image" src="https://github.com/user-attachments/assets/a1c1c872-8e55-4c29-b32f-5214de95844f" />
 <img width="803" height="629" alt="Image" src="https://github.com/user-attachments/assets/57b0fbab-d109-4abe-b544-b1e0bd6fd7e3" />
 <img width="820" height="639" alt="Image" src="https://github.com/user-attachments/assets/51eaab82-b497-4c28-907a-92871f00294a" />
+
+# **🚀 Getting Started
+Prerequisites
+ Make sure Python 3.x is installed on your system. Install Pygame:
+ -->  pip install pygame
+
+# **Installation
+Clone this repository:
+ -->  git clone https://github.com/yourusername/snake-apple-game.git
+ -->  cd snake-apple-game
+ 
+ **Run the game:**
+   python main.py
+
+   
+# 🕹️ Controls: 
+| Key    | Action     |
+| ------ | ---------- |
+| ⬆️ / W | Move Up    |
+| ⬇️ / S | Move Down  |
+| ⬅️ / A | Move Left  |
+| ➡️ / D | Move Right |
+| P      | Pause Game |
+| Q      | Quit Game  |
+
+# 📂 Project Structure
+
+Snake_Apple_Game/
+├── resources/
+│   ├── apple.jpg
+│   ├── background_music.mp3
+│   └── (other assets)
+├── main.py
+└── README.md
+
+# 🙌 Acknowledgements:
+Developed using Pygame
+Inspired by the classic Snake game.
