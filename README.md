@@ -24,4 +24,3 @@ A classic Snake game built using Pygame, enhanced with power-ups and obstacles f
 <img width="799" height="628" alt="Image" src="https://github.com/user-attachments/assets/a1c1c872-8e55-4c29-b32f-5214de95844f" />
 <img width="803" height="629" alt="Image" src="https://github.com/user-attachments/assets/57b0fbab-d109-4abe-b544-b1e0bd6fd7e3" />
 <img width="820" height="639" alt="Image" src="https://github.com/user-attachments/assets/51eaab82-b497-4c28-907a-92871f00294a" />
-<!-- Failed to upload "Screen Recording 2025-07-22 at 23.30.09.mov" -->
